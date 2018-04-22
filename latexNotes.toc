@@ -1,0 +1,6 @@
+\contentsline {part}{I\hspace {1em}part 1}{1}
+\contentsline {section}{\numberline {1}section 1}{1}
+\contentsline {paragraph}{paragraph 1}{1}
+\contentsline {subparagraph}{subparagraph 1-1}{1}
+\contentsline {subsection}{\numberline {1.1}subsection 1.1}{1}
+\contentsline {paragraph}{paragraph 1}{1}
